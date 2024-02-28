@@ -1,0 +1,12 @@
+prefix=c:/Users/badgu/OneDrive/Desktop/Data Science/sms-spam-detection/senv/Library
+exec_prefix=c:/Users/badgu/OneDrive/Desktop/Data Science/sms-spam-detection/senv/Library
+libdir=c:/Users/badgu/OneDrive/Desktop/Data Science/sms-spam-detection/senv/Library/lib
+includedir=c:/Users/badgu/OneDrive/Desktop/Data Science/sms-spam-detection/senv/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.5
+Libs: -L${libdir} -lzmq
+Libs.private: -lstdc++ 
+Requires.private: 
+Cflags: -I${includedir} 

@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "c:/Users/badgu/OneDrive/Desktop/Data Science/sms-spam-detection/senv\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": false
+ }
+}
